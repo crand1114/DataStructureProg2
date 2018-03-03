@@ -1,3 +1,14 @@
+## Student: Charles
+
+
+- No Median() -4
+- No Sort() -4
+- No Shuffle() -4
+- Display Even/Odd not working -4
+
+### Grade: 84
+
+
 # Assignment #2: List - Array Implementation
 
 *Review pages 6-7 in "From Java to C++" notes.* 
